@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Submodule2", "Submodule2\Submodule2.csproj", "{515732A9-72DA-4F12-920F-1E50381C9DF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{515732A9-72DA-4F12-920F-1E50381C9DF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{515732A9-72DA-4F12-920F-1E50381C9DF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{515732A9-72DA-4F12-920F-1E50381C9DF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{515732A9-72DA-4F12-920F-1E50381C9DF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
